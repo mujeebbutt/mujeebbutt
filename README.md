@@ -39,7 +39,7 @@ A complete system for managing inventory, users, and business operations.
 ---
 
 ## 📈 GitHub Stats
-![Mujeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Mujeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujeebbutt&show_icons=true&theme=radical)
 
 ---
 
