@@ -20,6 +20,11 @@ A complete system for managing inventory, users, and business operations.
 
 🌐 Live Demo: [https://mobile-ims-website.web.app](https://mobile-ims-website.web.app)  
 
+### 🔹 Mehwish Online Institute (LMS)
+A fully functional online learning platform for students, with courses, enrollment, and admin management.  
+
+🌐 Live Demo: [https://mehwishonline.institute/](https://mehwishonline.institute/)  
+
 ---
 
 ## 🚀 What I'm Working On
