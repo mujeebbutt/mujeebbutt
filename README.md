@@ -38,11 +38,6 @@ A complete system for managing inventory, users, and business operations.
 
 ---
 
-## 📈 GitHub Stats
-![Mujeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujeebbutt&show_icons=true&theme=radical)  
-
----
-
 ## 🌐 Portfolio & Connect
 - 🎬 Video Editing Portfolio: [https://meemsproduction-7effd.web.app](https://meemsproduction-7effd.web.app)  
 - 💻 Coding Portfolio: [https://themujeeb.py](https://themujeeb.py)  
