@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 BSCS Student (7th Semester)  
+- 🎓 Final Year Student of BSCS 
 - 🤖 Currently building my own JARVIS AI system  
 - 🛠 Working on real-world systems  
 - 🌍 Passionate about technology, AI, and problem solving  
