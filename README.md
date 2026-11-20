@@ -8,9 +8,9 @@
 
 - 🎓 CS Graduate — The Islamia University of Bahawalpur (IUB), Rajanpur Campus
 - 🚀 Founder & solo developer of **UstadExam** — an AI-powered exam generation and grading SaaS
-- 🧑‍🏫 Freelance software developer ([themujeeb.dev](https://themujeeb.dev)) & AI/tech educator
+- 🧑‍🏫 Freelance software developer ([website](https://themujeebpy.web.app/)) & AI/tech educator
 - 🌍 Passionate about technology, AI, and problem solving
-- 📫 Open to junior full-stack / software engineer roles and freelance projects — reach me on [LinkedIn](https://www.linkedin.com/in/themujeebpy/) or [Fiverr](https://www.fiverr.com/sellers/mujeeburrehm712/)
+- 📫 Open to junior full-stack / software engineer roles and freelance projects — reach me on [LinkedIn](https://www.linkedin.com/in/themujeebpy/) or [Fiverr](https://www.fiverr.com/sellers/mujeeburrehm712/edit)
 - 🎯 Goal: Build my own software company
 
 ---
@@ -68,9 +68,8 @@ A fully functional online learning platform for students, with courses, enrollme
 
 ### 🌐 Portfolio & Connect
 
-- 🛠️ Software & Development: [themujeeb.dev](https://themujeeb.dev)
-- 💻 Coding Portfolio: [themujeeb.py](https://themujeebpy.web.app/)
-- 💼 Fiverr: [mujeeburrehm712](https://www.fiverr.com/sellers/mujeeburrehm712/)
+- 🌐 Website & Coding Portfolio: [themujeeb.py](https://themujeebpy.web.app/)
+- 💼 Fiverr: [mujeeburrehm712](https://www.fiverr.com/sellers/mujeeburrehm712/edit)
 - 📸 Instagram: [@themujeeb.py](https://www.instagram.com/themujeeb.py/)
 - 🔗 LinkedIn: [themujeebpy](https://www.linkedin.com/in/themujeebpy/)
 - 📘 Facebook: [Profile](https://www.facebook.com/profile.php?id=61560172769582)
