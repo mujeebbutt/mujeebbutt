@@ -21,6 +21,10 @@
 AI-powered exam generation and grading platform built on a RAG pipeline (FastAPI, ChromaDB, Sentence Transformers, Gemini).
 🌐 [ustadexam.com](https://ustadexam.com)
 
+**🔹 Skyvale TMS (Freight Transportation Management System)**
+End-to-end TMS for a freight brokerage: quoting, carrier vetting with FMCSA checks, dispatch, rate confirmations, live driver tracking, invoicing & payments, plus an iOS driver app (Next.js, PostgreSQL, React Native/Expo).
+🌐 [skyvalelogistics.com](https://www.skyvalelogistics.com)
+
 **🔹 Inventory Management System (IMS)**
 A complete system for managing inventory, users, and business operations.
 🌐 [Live Demo](https://mobile-ims-website.web.app)
