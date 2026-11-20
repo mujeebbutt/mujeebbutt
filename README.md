@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mujeeb ur Rehman</h1>
-<h3 align="center">💻 Developer by logic, creator by passion</h3>
+<h3 align="center">💻 Full-stack developer | AI SaaS, freight tech & automation</h3>
 <p align="center">🚀 Building AI systems, web apps & automation tools</p>
 
 ---
@@ -8,9 +8,9 @@
 
 - 🎓 CS Graduate — The Islamia University of Bahawalpur (IUB), Rajanpur Campus
 - 🚀 Founder & solo developer of **UstadExam** — an AI-powered exam generation and grading SaaS
-- 🧑‍🏫 Freelance software developer & AI/tech educator
-- 🎬 Also run **MeemsProduction** — video editing & filmmaking
+- 🧑‍🏫 Freelance software developer ([themujeeb.dev](https://themujeeb.dev)) & AI/tech educator
 - 🌍 Passionate about technology, AI, and problem solving
+- 📫 Open to junior full-stack / software engineer roles and freelance projects — reach me on [LinkedIn](https://www.linkedin.com/in/themujeebpy/) or [Fiverr](https://www.fiverr.com/sellers/mujeeburrehm712/)
 - 🎯 Goal: Build my own software company
 
 ---
@@ -38,7 +38,8 @@ A fully functional online learning platform for students, with courses, enrollme
 ### 🚧 What I'm Working On
 
 - 🔹 Growing UstadExam (payments, SEO, new features)
-- 🔹 Freelance dev & FYP/documentation work for other students
+- 🔹 Taking the Skyvale TMS to launch (web portals, iOS and Android driver app)
+- 🔹 Freelance dev on Fiverr & FYP/documentation work for other students
 - 🔹 Teaching Python & AI tools through my Summer Skill Initiative
 - 🔹 Automation tools in Python
 
@@ -52,6 +53,11 @@ A fully functional online learning platform for students, with courses, enrollme
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -62,7 +68,7 @@ A fully functional online learning platform for students, with courses, enrollme
 
 ### 🌐 Portfolio & Connect
 
-- 🎬 Video Editing Portfolio: [MeemsProduction](https://meemsproduction-7effd.web.app)
+- 🛠️ Software & Development: [themujeeb.dev](https://themujeeb.dev)
 - 💻 Coding Portfolio: [themujeeb.py](https://themujeebpy.web.app/)
 - 💼 Fiverr: [mujeeburrehm712](https://www.fiverr.com/sellers/mujeeburrehm712/)
 - 📸 Instagram: [@themujeeb.py](https://www.instagram.com/themujeeb.py/)
